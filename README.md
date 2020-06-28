@@ -5,4 +5,4 @@ The Website is live [here](https://sifatmd.github.io/COVID19-Confirmed-Cases-Tim
 
 ---
 
-<img src="map.png" alt="COVID19 World Map of Confirmed Cases" width="100%"/>
+<img src="worldmap.gif" alt="COVID19 World Map of Confirmed Cases" width="100%"/>
